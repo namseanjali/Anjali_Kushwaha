@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="header">
+          <h5>Employee</h5>
+        </div>
+    </header>
+    <main>
+    <div class="upper-btn-box">
+        <div class="left-box">  
+             <button id="add-Bnt"><i class="fa fa-plus"></i>&nbsp; Add employee</button>
+             <button style="background-color: skyblue;"><i class="fa fa-eraser" ></i>&nbsp; Clear fillter</button>
+        </div>
+        <div class="right-box"> 
+            <i class="fa fa-search"></i>
+            <input type="text" id="empId" placeholder="Enter employee Id">
+            <button style="background-color: orangered;">search</button>
+        </div>
+    </div>
+    </main>
+    <div class="table-box">
+        <table id="table-data">
+            <tr>
+                <th>Sr no</th>
+                <th>Profile</th>
+                <th>Id</th>
+                <th>name</th>
+                <th>Last name</th>
+                <th>E-mail</th>
+                <th>Office code</th>
+                <th>job Title</th>
+                <th>Action</th>
+            </tr>
+            <tbody id="table-data">
+
+            </tbody>
+        </table>
+    </div> 
+    <div class="model">
+        <i class="fa fa-times-circle close-icon"></i>
+        <div class="left-model">
+            <div class="img-box">
+                <img src="profil.png"  width="150px" height="150px" alt="">
+                <i class="fa fa-plus"></i>
+                <input type="file">
+            </div>
+        </div>
+        <div class="right-model">
+             <div class="input-box">
+                 <label for="id">Id</label>
+                 <input type="text" id="id">
+             </div>
+             <div class="input-box">
+                 <label for="name">Name</label>
+                 <input type="text" id="name">
+             </div>
+             <div class="input-box">
+                 <label for="l_name">Last Name</label>
+                 <input type="text" id="l_name">
+             </div>
+             <div class="input-box">
+                 <label for="e_mail">E-mail</label>
+                 <input type="text" id="e_mail">
+             </div>
+             <div class="input-box">
+                 <label for="O_code">Office code</label>
+                 <input type="text" id="O_code">
+             </div>
+             <div class="input-box">
+                 <label for="j_title">Job tittle</label>
+                 <input type="text" id="j_title">
+             </div>
+             <div class="input-box">
+                <button id="register-btn">Register</button>
+                <button disabled="disabled" style="background-color: orangered;">Update </button>
+             </div>
+             <form id="register-form">
+                <div class="input-box">
+                    <label for="id">Id</label>
+                    <input type="text" id="id">
+                </div>
+                <div class="input-box">
+                    <label for="name">Name</label>
+                    <input type="text" id="name">
+                </div>
+                <div class="input-box">
+                    <label for="l_name">Last Name</label>
+                    <input type="text" id="l_name">
+                </div>
+                <div class="input-box">
+                    <label for="e_mail">E-mail</label>
+                    <input type="text" id="e_mail">
+                </div>
+                <div class="input-box">
+                    <label for="O_code">Office code</label>
+                    <input type="text" id="O_code">
+                </div>
+                <div class="input-box">
+                    <label for="j_title">Job tittle</label>
+                    <input type="text" id="j_title">
+                </div>
+                <div class="input-box">
+                   <button id="register-btn">Register</button>
+                   <button disabled="disabled" style="background-color: orangered;">Update </button>
+                </div>
+             </form>
+         </div>
+     </div>
+     <script src="script.js"></script>
+</body>
+</html>
