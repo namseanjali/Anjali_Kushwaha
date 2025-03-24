@@ -5,14 +5,18 @@
 ### Submitted by: Anjali Kushwaha  
 
 ## Table of Contents  
- [**1. Introduction to Open Source**](#1-introduction-to-open-source)  
- [**2. Benefits of Open Source**](#2-benefits-of-open-source)  
- [**3. Open Source vs. Proprietary Software**](#3-open-source-vs-proprietary-software)  
- [**4. Popular Open Source Software**](#4-popular-open-source-software)    [**5. Open Source Licensing**](#5-open-source-licensing)  
- [**6. How to Contribute to Open Source**](#6-how-to-contribute-to-open-source)  
- [**7. Open Source in Different Industries**](#7-open-source-in-different-industries)    [**8. Challenges and Future of Open Source**](#8-challenges-and-future-of-open-source)  
- [**9. Conclusion**](#conclusion)  
- [**10. References**](#references)  
+ 
+<a href="#1-introduction-to-open-source" style="text-decoration: none;">1. Introduction to Open Source</a>  
+<a href="#2-benefits-of-open-source" style="text-decoration: none;">2. Benefits of Open Source</a>  
+<a href="#3-open-source-vs-proprietary-software" style="text-decoration: none;">3. Open Source vs. Proprietary Software</a>  
+<a href="#4-popular-open-source-software" style="text-decoration: none;">4. Popular Open Source Software</a>  
+<a href="#5-open-source-licensing" style="text-decoration: none;">5. Open Source Licensing</a>  
+<a href="#6-how-to-contribute-to-open-source" style="text-decoration: none;">6. How to Contribute to Open Source</a>  
+<a href="#7-open-source-in-different-industries" style="text-decoration: none;">7. Open Source in Different Industries</a>  
+<a href="#8-challenges-and-future-of-open-source" style="text-decoration: none;">8. Challenges and Future of Open Source</a>  
+<a href="#conclusion" style="text-decoration: none;">9. Conclusion</a>  
+<a href="#references" style="text-decoration: none;">10. References</a>  
+
 
 ---
 
