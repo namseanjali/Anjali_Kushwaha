@@ -8,7 +8,8 @@
  [**1. Introduction to Open Source**](#1-introduction-to-open-source)  
  [**2. Benefits of Open Source**](#2-benefits-of-open-source)  
  [**3. Open Source vs. Proprietary Software**](#3-open-source-vs-proprietary-software)  
- [**4. Popular Open Source Software**](#4-popular-open-source-software)    [**5. Open Source Licensing**](#5-open-source-licensing)  
+ [**4. Popular Open Source Software**](#4-popular-open-source-software)    
+ [**5. Open Source Licensing**](#5-open-source-licensing)  
  [**6. How to Contribute to Open Source**](#6-how-to-contribute-to-open-source)  
  [**7. Open Source in Different Industries**](#7-open-source-in-different-industries)    [**8. Challenges and Future of Open Source**](#8-challenges-and-future-of-open-source)  
  [**9. Conclusion**](#conclusion)  
@@ -139,7 +140,7 @@ Open-source software is no longer just a niche movement—it is the foundation o
 
 ---
 
-## **References**  
+## References 
 
 **1- [https://surl.li/kgumtv](https://surl.li/kgumtv)**
 
