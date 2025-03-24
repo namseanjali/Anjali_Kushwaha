@@ -109,7 +109,7 @@ Open-source licenses define the legal terms for using, modifying, and distributi
 
 ---
 
-## **7. Open Source in Different Industries**  
+## 7. Open Source in Different Industries 
 
 ### Industries Using Open Source Software:  
 - **Technology** – Used in cloud computing, AI, and software development.  
@@ -122,7 +122,7 @@ Open-source licenses define the legal terms for using, modifying, and distributi
 
 ## 8. Challenges and Future of Open Source 
 
-### **Challenges:**  
+### Challenges:  
 1. **Security Vulnerabilities** – Open code can be exploited if not monitored properly.  
 2. **Steep Learning Curve** – Some open-source tools require technical expertise.  
 3. **Lack of Professional Support** – Free versions may not offer dedicated support like proprietary software.  
